@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/nichoth/hash/issues"
   },
-  "homepage": "https://github.com/nichoth/hash#readme"
+  "homepage": "https://github.com/nichoth/hash#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "minimist": "^1.2.6"
+  }
 }

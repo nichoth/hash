@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-var minimist = require('minimist')
+const minimist = require('minimist')
 const bcrypt = require('bcrypt');
 
 function createHash (pw) {

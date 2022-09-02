@@ -1,5 +1,7 @@
 # hash
 
+A command line interface for `bcrypt`.
+
 ## install
 
 ```

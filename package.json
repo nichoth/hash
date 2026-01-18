@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/nichoth/hash#readme",
   "dependencies": {
-    "bcrypt": "^5.0.1",
+    "bcrypt": "^6.0.0",
     "minimist": "^1.2.6"
   }
 }
